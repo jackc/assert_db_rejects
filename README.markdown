@@ -22,6 +22,6 @@ Example
     assert_db_rejects(p)
 
 License
-=======    
-    
+=======
+
 Copyright (c) 2009 Jack Christensen, released under the MIT license
